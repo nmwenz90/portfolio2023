@@ -75,6 +75,8 @@ const Portfolio = () => {
                         </span>
                       </div>
                       <a
+                        target="_blank"
+                        rel="noreferrer"
                         className="edrea_tm_full_link reactime_link"
                         href="https://reactime.io/"
                       />
@@ -99,6 +101,8 @@ const Portfolio = () => {
                         </span>
                       </div>
                       <a
+                        target="_blank"
+                        rel="noreferrer"
                         className="edrea_tm_full_link soundboard_link"
                         href="https://nmwenz90.github.io/Nate-s-SoundBoard-Project/"
                       />
@@ -122,6 +126,8 @@ const Portfolio = () => {
                         </span>
                       </div>
                       <a
+                        target="_blank"
+                        rel="noreferrer"
                         className="edrea_tm_full_link"
                         href="https://openprocessing.org/sketch/623862"
                       />
@@ -146,6 +152,8 @@ const Portfolio = () => {
                         </span>
                       </div>
                       <a
+                        target="_blank"
+                        rel="noreferrer"
                         className="edrea_tm_full_link portfolio_popup"
                         href="https://nmwenz90.github.io/eventflyer.github.io/"
                         // onClick={() => setModal(true)}
@@ -166,6 +174,8 @@ const Portfolio = () => {
                         <span>Image</span>
                       </div>
                       <a
+                       target="_blank"
+                       rel="noreferrer"
                         className="edrea_tm_full_link zoom"
                         href="img/portfolio/5.jpg"
                       />
