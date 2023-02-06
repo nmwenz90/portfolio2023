@@ -17,7 +17,7 @@ const MobileHeader = () => {
       <div className="edrea_tm_topbar">
         <div className="topbar_inner">
           <div className="logo">
-            <a href="#home">
+            <a href="#home" onClick={() => onClick("home")}>
               <img src="img/logo/logo.png" alt="logo" />
             </a>
           </div>
