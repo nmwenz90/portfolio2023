@@ -123,7 +123,7 @@ const Portfolio = () => {
                       </div>
                       <a
                         className="edrea_tm_full_link"
-                        href="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/471954807&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
+                        href="https://openprocessing.org/sketch/623862"
                       />
                     </div>
                   </SwiperSlide>
@@ -148,7 +148,7 @@ const Portfolio = () => {
                       <a
                         className="edrea_tm_full_link portfolio_popup"
                         href="https://nmwenz90.github.io/eventflyer.github.io/"
-                        onClick={() => setModal(true)}
+                        // onClick={() => setModal(true)}
                       />
                     </div>
                   </SwiperSlide>
