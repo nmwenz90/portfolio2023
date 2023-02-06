@@ -17,8 +17,8 @@ const MobileHeader = () => {
       <div className="edrea_tm_topbar">
         <div className="topbar_inner">
           <div className="logo">
-            <a href="#">
-              <img src="img/logo/logo.png" alt="" />
+            <a href="#home">
+              <img src="img/logo/logo.png" alt="logo" />
             </a>
           </div>
           <div className="trigger">
