@@ -86,6 +86,20 @@ const Contact = () => {
                 </li> */}
                 <li>
                   <div className="list_inner">
+                    <i className="icon-github-1" />
+                    <span>
+                      <a
+                        target="_blank"
+                        rel="noreferrer"
+                        href="https://github.com/nmwenz90"
+                      >
+                        Github
+                      </a>
+                    </span>
+                  </div>
+                </li>
+                <li>
+                  <div className="list_inner">
                     <i className="icon-twitter-bird-1" />
                     <span>
                       <a
@@ -108,20 +122,6 @@ const Contact = () => {
                         href="https://instagram.com/natekodi"
                       >
                         Instagram
-                      </a>
-                    </span>
-                  </div>
-                </li>
-                <li>
-                  <div className="list_inner">
-                    <i className="icon-bandcamp-1" />
-                    <span>
-                      <a
-                        target="_blank"
-                        rel="noreferrer"
-                        href="https://natekodi.bandcamp.com"
-                      >
-                        Bandcamp
                       </a>
                     </span>
                   </div>
