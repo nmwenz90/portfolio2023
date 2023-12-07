@@ -25,6 +25,7 @@ const Index = () => {
         {/* NEWS */}
         {/* <News /> */}
         {/* /NEWS */}
+        {/* <News /> */}
         {/* CONTACT */}
         <Contact />
       </Layout>

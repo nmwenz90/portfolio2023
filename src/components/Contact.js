@@ -107,7 +107,7 @@ const Contact = () => {
                         rel="noreferrer"
                         href="https://www.twitter.com/natekodi"
                       >
-                        Twitter
+                        Twitter/X
                       </a>
                     </span>
                   </div>

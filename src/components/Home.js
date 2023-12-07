@@ -3,8 +3,8 @@ import { context } from "../context/context";
 import AnimatedText from "./AnimatedText";
 
 const homeData = {
-  firstName: "Nathanael",
-  lastName: "Wa Mwenze",
+  firstName: "Nate",
+  lastName: "Kodi",
   skills: ["Designer", "Web Developer", "Audio Engineer"],
 };
 
@@ -17,7 +17,7 @@ const Home = ({ activeWithBtn }) => {
       <div className="section_inner">
         <div className="edrea_tm_home">
           <h3 className="name">
-            {homeData.firstName}{" "}
+            {homeData.firstName}
             <span className="coloring">{homeData.lastName}</span>
           </h3>
           <h3 className="job">

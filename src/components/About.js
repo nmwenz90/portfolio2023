@@ -3,7 +3,7 @@ import AnimatedText from "./AnimatedText";
 import AboutPopup from "./popup/AboutPopup";
 
 const aboutData = {
-  firstName: "Nathanael",
+  firstName: "Nate",
   lastName: "Wa Mwenze",
   bithday: "10.17",
   address: "Salt Lake City, USA",
@@ -79,7 +79,7 @@ const About = () => {
                 <p>
                   My name is <span>Nate</span> I am a front end web developer
                   with experience working with full stack Javascript/Node
-                  applications. {`I'm`} Also experienced in audio mixing and
+                  applications. {`I'm`} also experienced in audio mixing and
                   mastering, and music production.
                 </p>
               </div>
